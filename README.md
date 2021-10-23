@@ -29,7 +29,7 @@ While searching for sniffers on a machine, running processes that use those libr
   <img src="https://github.com/0x0ranm/SnifferDetector/blob/main/img3.JPG">
 </p>
 <p align="center">tcpdump loaded shared libraries</p>
-</br></br>
+</br>
 <h1>Proof of concept</h1>
 
 The POC searches for processes that are using at least one of the described methods and returns information about the process.
