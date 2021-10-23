@@ -18,7 +18,7 @@ In this example, I will use the lsof command, which displays open files by proce
 ![alt text](https://github.com/0x0ranm/SnifferDetector/blob/main/img2.JPG?raw=true)
 <p align="center">processes with open RAW sockets</p>
 
-# Method 2 - Specific Libraries usage</br>
+# Method 2 - sniffing libraries usage</br>
 
 While searching for sniffers on a machine, running processes that use those libraries will also be identified as potential sniffers.</br>
 1.libpcap</br>
