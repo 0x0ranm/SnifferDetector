@@ -1,4 +1,4 @@
-# Research goal
+# Goal
 Detecting potential sniffers on Linux machines
 
 # Intro
