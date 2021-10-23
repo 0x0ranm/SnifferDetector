@@ -1,5 +1,5 @@
 # Goal
-Detecting potential sniffers on Linux machines
+Detecting sniffers on Linux machines
 
 # Intro
 The methods presented in this study can be used to detect sniffers on Linux systems. </br>
