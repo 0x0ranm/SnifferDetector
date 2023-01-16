@@ -43,6 +43,10 @@ def detect_by_library_usage():
 	return list(set(_pids))
 
 def run(library, raw):
+	"""
+	run(library, raw) -> None
+	The function recieve the required checks from the user and search for sniffers according to the required checks. 
+	"""
 
 	_pids = []
 
@@ -50,7 +54,6 @@ def run(library, raw):
 	if raw:
 		print("[*] Searching processes with open RAW sockets")
 		_pids += detect_by_raw_socket_usage()	
-
 
 	# Method 2 - check for potential sniffing libraries
 	if library:
