@@ -1,5 +1,6 @@
 # Goal
-Detecting sniffers on Linux machines
+This project was part of a research about sniffers in Linux systems.</br>
+The research focused on two common sniffers: Wiresearch and Tcpdump that are very common on Linux systems.</br>
 
 # Intro
 The methods presented in this study can be used to detect sniffers on Linux systems. </br>
